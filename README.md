@@ -46,13 +46,13 @@ jupyter notebook SDK_actividad.ipynb
 
 ## Estructura del notebook
 
-| Celda | Descripción | Requiere API |
+| Descripción | Requiere API |
 |-------|-------------|--------------|
-| 1-2 | Análisis de escenario | ✗ |
-| 3 | Configuración y verificación | ✗ |
-| 4 | `generate_content` básico | ✓ |
-| 5 | `generate_content_stream` | ✓ |
-| 6 | Multimodal (imagen) | ✓ |
+| Análisis de escenario | ✗ |
+| Configuración y verificación | ✗ |
+| `generate_content` básico | ✓ |
+| `generate_content_stream` | ✓ |
+|  Multimodal (imagen) | ✓ |
 
 
 ## Resolución de problemas
