@@ -44,17 +44,6 @@ pip install google-genai python-dotenv jupyter
 jupyter notebook SDK_actividad.ipynb
 ```
 
-## Estructura del notebook
-
-| Descripción | Requiere API |
-|-------|-------------|--------------|
-| Análisis de escenario | ✗ |
-| Configuración y verificación | ✗ |
-| `generate_content` básico | ✓ |
-| `generate_content_stream` | ✓ |
-|  Multimodal (imagen) | ✓ |
-
-
 ## Resolución de problemas
 
 ### Error: `ModuleNotFoundError: No module named 'google.genai'`
